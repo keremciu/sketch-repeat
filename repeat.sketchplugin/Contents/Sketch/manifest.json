@@ -1,0 +1,23 @@
+{
+  "author" : "Kerem Sevencan",
+  "commands" : [
+    {
+      "script" : "duplicate.js",
+      "handler" : "onRun",
+      "shortcut" : "cmd ctrl d",
+      "name" : "Duplicate to All Artboards",
+      "identifier" : "duplicate"
+    }
+  ],
+  "menu" : {
+    "title" : "Repeat",
+    "items" : [
+      "duplicate"
+    ]
+  },
+  "identifier" : "com.keremciu.sketch.duplicate",
+  "version" : "0.1.0",
+  "description" : "Duplicate your objects to all Artboards.",
+  "name" : "Repeat",
+  "authorEmail" : "info@kerem.ws"
+}
