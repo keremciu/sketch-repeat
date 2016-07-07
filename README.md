@@ -2,6 +2,10 @@
 
 This plugin helps you easily duplicate your objects to all Artboards.
 
+![demo][demo-image]
+
+[demo-image]: http://g.recordit.co/ZbwwjNLGIG.gif
+
 =======
 
 #### Donate
